@@ -1,0 +1,14 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Code 2020, in TS with Deno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Bailey",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}

@@ -18,7 +18,7 @@ def read_file_to_list(fn):
 
 
 def partone():
-    data = read_file_to_list("day1-data.txt")
+    data = read_file_to_list("..data/day1.txt")
     get_product(data)
 
 
@@ -33,7 +33,7 @@ def get_product3(data):
 
 
 def parttwo():
-    data = read_file_to_list("day1-data.txt")
+    data = read_file_to_list("../data/day1.txt")
     get_product3(data)
 
 
